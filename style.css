@@ -1,0 +1,31 @@
+.continer{width: 1170px;margin: 0 auto}
+g
+.header .slider{height: 600px;background-color: blue(161, 122, 14)}
+
+.header .slider .cover{text-align: center;padding-top: 300px}
+
+.header .slider .cover h2{color: rgb(44, 42, 165);
+    border-bottom: 3px solid rgb(17, 17, 17);
+    border-top: 3px solid rgb(20, 20, 20);
+text-transform: capitalize;
+
+
+
+}
+
+.header .navbar{height: 70px;background-color: rgb(235, 85, 15);
+overflow: hidden;}
+
+
+.header .navbar h2{float: left; font-size: 28px;color: rgb(0, 26, 255);
+text-transform: capitalize;
+}
+
+.header .navbar ul{float:right;list-style: none;}
+
+.header .navbar ul li{float: left;padding-right: 40px}
+
+
+.header .navbar ul li a{text-decoration: none;color: red}
+
+.header .navbar ul li a:hover{color: rgb(12, 11, 11)}

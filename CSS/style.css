@@ -1,0 +1,125 @@
+.continer{width: 1309px;margin: 0 auto}
+.course {background-color:rgb(228, 162, 207);}
+body{background-color:rgb(247, 117, 171);
+}; } 
+
+.header .slider .cover{text-align: center;}
+
+.header .slider .cover h2{color: palevioletred(44, 42, 165);
+    border-bottom: 3px solid rgb(17, 17, 17);
+    border-top: 3px solid rgb(20, 20, 20);
+text-transform: capitalize;
+text-align: center;
+
+
+
+}
+
+.header .navbar{height: 70px;background-color:rgb(78, 169, 174);
+    padding-bottom: 30px;overflow: hidden;
+}
+
+
+.header .navbar h2{float: left; font-size: 28px;color: rgb(16, 17, 17);
+text-transform: capitalize;
+}
+.header .navbar h2{ padding-top: 20px;}
+
+.header .navbar ul{float:right;list-style: none;}
+
+.header .navbar ul li{float: left;padding-right: 40px}
+
+.header .navbar ul li a{text-decoration: none;color:black;
+}
+.header .navbar ul li a .f {font-size: 30px; }
+.header .navbar ul li a:hover{color: wheat;
+ }
+
+/*start sew */
+.hanan{ background-color: 
+    rgb(214, 161, 197)); text-align: justify;}
+.hanan .ph h1{font-size:40px }
+.hanan .ph p{ font-size: 40px;}
+
+
+/*end div sew*/
+
+/*start vedio*/
+.beg {background-color :#98edf5;overflow: hidden;
+padding-top: 40px;
+}
+.beg .imagedropshadow {width: 32.33%;
+text-align: center;
+float: left;
+
+}
+/* start form*/
+form {text-align: center; 
+font-size: 28px;}
+
+
+        .content .ff  input[type="text"]{width: 524px;
+            height: 55px;
+            color: #ffffff;
+            background-color: #eae3e8;
+            margin-top: 20px;
+        border: 3px solid black}
+            .content .ff  input[type="email"]{width: 524px;
+                height: 55px;
+                color: #ffffff;
+                background-color: #eae3e8;
+                margin-top: 20px;
+            border: 3px solid black}
+                .content .ff  input[type="phone"]{width: 524px;
+                    height: 55px;
+                    color: #ffffff;
+                    background-color: #eae3e8;
+                    margin-top: 20px;
+                border: 3px solid black}
+                  .content .ff  input[type="submit"]{margin-top: 33px; width: 80px;height: 33px;
+                    border: 3px solid black}
+                    .content .ff  select{margin-top: 33px; width: 80px;height: 33px;
+                        border: 3px solid black;}
+                        .footer {text-align: center;
+                        height: 70px;
+                    background-color: rgb(50, 241, 241)}
+                    
+                        
+
+                        
+                         
+            /*End qpp*/
+
+
+
+   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+
+

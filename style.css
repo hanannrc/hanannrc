@@ -1,31 +1,58 @@
-.continer{width: 1170px;margin: 0 auto}
-g
-.header .slider{height: 600px;background-color: blue(161, 122, 14)}
+ .continer{width: 1309px;margin: 0 auto}
+.course {background-color: pink;}
+body{background-color:#d96081; } 
 
-.header .slider .cover{text-align: center;padding-top: 300px}
+.header .slider .cover{text-align: center;}
 
-.header .slider .cover h2{color: rgb(44, 42, 165);
+.header .slider .cover h2{color: palevioletred(44, 42, 165);
     border-bottom: 3px solid rgb(17, 17, 17);
     border-top: 3px solid rgb(20, 20, 20);
 text-transform: capitalize;
+text-align: center;
 
 
 
 }
 
-.header .navbar{height: 70px;background-color: rgb(235, 85, 15);
-overflow: hidden;}
+.header .navbar{height: 70px;background-color:rgb(78, 169, 174);
+    padding-bottom: 30px;overflow: hidden;
+}
 
 
-.header .navbar h2{float: left; font-size: 28px;color: rgb(0, 26, 255);
+.header .navbar h2{float: left; font-size: 28px;color: black;
 text-transform: capitalize;
 }
+.header .navbar h2{ padding-top: 20px;}
 
 .header .navbar ul{float:right;list-style: none;}
 
 .header .navbar ul li{float: left;padding-right: 40px}
 
+.header .navbar ul li a{text-decoration: none;color:black;
+}
+.header .navbar ul li a .f {font-size: 30px; }
+.header .navbar ul li a:hover{color: wheat;
+ }
 
-.header .navbar ul li a{text-decoration: none;color: red}
 
-.header .navbar ul li a:hover{color: rgb(12, 11, 11)}
+.hanan{text-align: center; background-color: 
+rgb(252, 122, 230);}
+.hanan .image{
+    width: 33.333%;
+    float: left;
+    margin-bottom: 5px;
+}
+.hanan .image img{width: 100%;}
+.continer .reg input [type="text"]{
+    width: 600px;
+    height: 60px;
+    border: 4px solid red;
+    border-radius: 12px;
+
+  .imagedropshadow {float: left ;width: 33.33% ;
+}
+
+
+  
+
+}
